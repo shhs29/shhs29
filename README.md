@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shhs29.
 - 👀 I’m interested in Graph Neural Networks.
-- 🌱 I’m currently learning about scalable models in Graph Neural Networks.
+- 🌱 I’m currently working as a Data Analyst.
 - 📫 You can reach me via email at shweta.jacob@ontariotechu.net.
 
 <!---
